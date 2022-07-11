@@ -1,0 +1,1 @@
+En la parte de los estilos de main falto colocar un min-width de 320px para que el contendedor con color de fondo (off-white) no se rompa cuando se alcanzen resoluciones menores a esta.
